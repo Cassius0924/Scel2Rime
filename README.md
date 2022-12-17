@@ -1,6 +1,6 @@
    # Scel2Rime
 
-
+搜狗拼音和QQ拼音的词库解析：[Sogou Dictionary Analysis](https://github.com/Cassius0924/Scel2Rime/wiki/Sogou-Dictionary-Analysis)
 
 ## 功能
 
